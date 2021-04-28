@@ -1,0 +1,68 @@
+*{
+	margin: 0px;
+	padding:0px;
+}
+
+
+body{
+	background: url(../img/reg.jpg);
+	background-size: cover; 
+}
+
+
+
+
+
+.container{
+        background-color: antiquewhite;
+    width: 80%;
+    margin: 10% auto;
+}
+	
+
+
+.login-section{
+	
+    padding: 25px;
+}
+
+
+
+.login-section img{
+	width: 150px;
+    margin: 0 auto;
+    display: block;
+	
+}
+.login-section h2{
+	text-align: center;
+    color: revert;
+    font-size: -webkit-xxx-large;
+    text-transform: uppercase;
+    margin: 10px 0px;
+}
+	
+
+.form-control{
+	width: 95%;
+    height: 35px;
+    margin-bottom: 10px;
+    padding: 5px;
+
+}
+.btn{
+	    background: darkred;
+    color: cadetblue;
+    padding: 5px 20px;
+    margin: 0 auto;
+    display: block;
+    border: none;
+    font-size: 20px;
+    text-transform: uppercase;
+    transition: .4s ease-in-out;
+}
+
+.btn:hover{
+	cursor: pointer;
+	    box-shadow: 4px 4px 4px black
+}
